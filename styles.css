@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body {
+    background-color:yellow;
+}
+
+h1 {
+    color: purple
+}
+
+h2 {
+    color: red
+}
+
+p {
+    text-align: justify;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20px;
+}
+
+article {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+.fade {
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+}
+
+@keyframes fadeIn {
+    to {opacity: 1;}
+}
+
+a {
+    font-size: 20px;
+}
