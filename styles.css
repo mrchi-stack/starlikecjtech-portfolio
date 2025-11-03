@@ -1,48 +1,5 @@
 body {
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
-}
-
-body {
-    background-color:yellow;
-}
-
-h1 {
-    color: purple
-}
-
-h2 {
-    color: red
-}
-
-p {
-    text-align: justify;
-    margin-left: 10px;
-    margin-right: 10px;
-    font-size: 20px;
-}
-
-article {
-    text-align: center;
-}
-
-form {
-    margin-bottom: 10px;
-}
-
-.fade {
-    opacity: 0;
-    animation: fadeIn 2s forwards;
-}
-
-@keyframes fadeIn {
-    to {opacity: 1;}
-}
-
-a {
-    font-size: 20px;
-}
-
-iframe {
-    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
 }
